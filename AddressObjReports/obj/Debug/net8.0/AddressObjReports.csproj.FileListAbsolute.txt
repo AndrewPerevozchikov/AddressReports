@@ -1,0 +1,74 @@
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.exe
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.deps.json
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.runtimeconfig.json
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.pdb
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfoInputs.cache
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfo.cs
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.CoreCompileInputs.cache
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\refint\AddressObjReports.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.pdb
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.genruntimeconfig.cache
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\ref\AddressObjReports.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Xceed.Document.NET.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Xceed.Words.NET.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.AssemblyReference.cache
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.sourcelink.json
+C:\Users\siams\source\repos\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressO.B74E7B72.Up2Date
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.exe
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.deps.json
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.runtimeconfig.json
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.pdb
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Xceed.Document.NET.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Xceed.Words.NET.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.AssemblyReference.cache
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfoInputs.cache
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfo.cs
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.CoreCompileInputs.cache
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.sourcelink.json
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressO.B74E7B72.Up2Date
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\refint\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.pdb
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.genruntimeconfig.cache
+C:\Users\pa198\OneDrive\Рабочий стол\Новая папка (2)\AddressObjReports\AddressObjReports\obj\Debug\net8.0\ref\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.exe
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.deps.json
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.runtimeconfig.json
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\AddressObjReports.pdb
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\Xceed.Document.NET.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\Xceed.Words.NET.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.AssemblyReference.cache
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfoInputs.cache
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.AssemblyInfo.cs
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.csproj.CoreCompileInputs.cache
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressO.B74E7B72.Up2Date
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\refint\AddressObjReports.dll
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.pdb
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\AddressObjReports.genruntimeconfig.cache
+C:\Users\pa198\OneDrive\Рабочий стол\AddressReports\AddressReports\AddressObjReports\obj\Debug\net8.0\ref\AddressObjReports.dll
